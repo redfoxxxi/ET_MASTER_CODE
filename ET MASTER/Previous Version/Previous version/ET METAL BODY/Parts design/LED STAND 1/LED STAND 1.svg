@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="15.3mm" height="405.49911485751284mm" viewBox="0 0 15.3 405.49911485751284" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part__Part2DObjectPython010" transform="translate(0.150000,405.349115) scale(1,-1)">
+<path id="Part__Part2DObjectPython010_w0000"  d="M 15.0 405.1991148575129 L 15.0 35.19911485751287 L 15.0 33.0 L 15.0 0.0 L 0.0 0.0 L 0.0 33.0 L 0.0 35.19911485751288 L 0.0 405.1991148575129 L 15.0 405.1991148575129 " stroke="#000080" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython010'</title>
+</g>
+<g id="Part__Part2DObjectPython011" transform="translate(0.150000,405.349115) scale(1,-1)">
+<path id="Part__Part2DObjectPython011_w0000"  d="M 15.0 34.09955742875643 L 0.0 34.09955742875643 " stroke="#c00000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:3.0,2.0,0.2,2.0;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython011'</title>
+</g>
+<g id="Part__Part2DObjectPython012" transform="translate(0.150000,405.349115) scale(1,-1)">
+<circle cx="7.5" cy="379.6991148575129" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="7.5" cy="179.69911485751285" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="7.5" cy="25.0" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="7.5" cy="10.0" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Part__Part2DObjectPython012'</title>
+</g>
+</svg>
