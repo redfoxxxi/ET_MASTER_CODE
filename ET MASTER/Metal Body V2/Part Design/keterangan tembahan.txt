@@ -1,0 +1,13 @@
+Material : mild steel
+ketebalan besi : 2mm
+
+berlaku untuk semua design di folder ini kecuali PLATE CLAMP
+untuk PLATE CLAMP, pakai material plat baja spring tebal 0,3mm. ketebalan bisa disesuaikan dengan ketersediaan bahan, tolerance ketebalan 0,3mm -1mm
+
+
+
+kerangka yang terakit ada di file metal body-Assembly.step
+
+
+
+
