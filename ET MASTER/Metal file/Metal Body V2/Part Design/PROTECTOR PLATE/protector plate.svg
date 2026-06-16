@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="244.80000000000004mm" height="353.82654824574377mm" viewBox="0 0 244.80000000000004 353.82654824574377" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part__Part2DObjectPython020" transform="translate(2.400000,351.426548) scale(1,-1)">
+<path id="Part__Part2DObjectPython020_w0000"  d="M 90.0 -7.105427357601002e-15 L 90.0 41.999999999999986 L 90.0 44.51327412287182 L 90.0 45.51327412287182 L 89.20000000000002 45.51327412287182 L 89.20000000000002 44.51327412287182 L 20.0 44.513274122871834 L 1.0658141036401503e-14 64.51327412287185 L 6.039613253960852e-14 284.51327412287185 L 20.000000000000068 304.51327412287185 L 89.20000000000007 304.51327412287185 L 89.20000000000007 303.51327412287185 L 90.00000000000006 303.51327412287185 L 90.00000000000009 304.51327412287185 L 90.00000000000009 307.02654824574375 L 90.00000000000011 349.02654824574375 L 150.00000000000009 349.0265482457437 L 150.00000000000009 307.0265482457437 L 150.00000000000006 304.5132741228718 L 150.00000000000006 303.5132741228718 L 150.80000000000007 303.5132741228718 L 150.80000000000007 304.5132741228718 L 220.00000000000006 304.5132741228718 L 240.00000000000006 284.5132741228718 L 240.0 64.51327412287179 L 220.0 44.51327412287179 L 150.8 44.513274122871806 L 150.8 45.513274122871806 L 150.0 45.513274122871806 L 150.0 44.513274122871806 L 150.0 42.0 L 150.0 -1.7763568394002505e-15 L 90.0 -7.105427357601002e-15 " stroke="#000080" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython020'</title>
+</g>
+<g id="Part__Part2DObjectPython021" transform="translate(2.400000,351.426548) scale(1,-1)">
+<path id="Part__Part2DObjectPython021_w0000"  d="M 90.00000000000009 305.7699111843078 L 150.00000000000009 305.7699111843078 " stroke="#c00000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:3.0,2.0,0.2,2.0;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Part__Part2DObjectPython021_w0001"  d="M 90.0 43.2566370614359 L 150.0 43.25663706143589 " stroke="#c00000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:3.0,2.0,0.2,2.0;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython021'</title>
+</g>
+<g id="Part__Part2DObjectPython022" transform="translate(2.400000,351.426548) scale(1,-1)">
+<circle cx="120.00000000000003" cy="174.51327412287182" r="82.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="135.0" cy="14.999999999999961" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="105.0" cy="14.999999999999968" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="220.0" cy="74.51327412287179" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="20.00000000000001" cy="74.51327412287183" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="220.00000000000006" cy="274.5132741228718" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="20.00000000000006" cy="274.51327412287185" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="105.00000000000014" cy="334.02654824574375" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="135.00000000000014" cy="334.02654824574375" r="1.5" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Part__Part2DObjectPython022'</title>
+</g>
+</svg>

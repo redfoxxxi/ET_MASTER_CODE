@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="244.82707921065852mm" height="24.800530964914884mm" viewBox="0 0 244.82707921065852 24.800530964914884" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part__Part2DObjectPython029" transform="translate(2.400265,22.400265) scale(1,-1)">
+<path id="Part__Part2DObjectPython029_w0000"  d="M 240.0265482457437 20.00000000000001 L 170.0265482457437 20.0 L 167.51327412287185 20.0 L 72.51327412287185 19.999999999999996 L 70.00000000000001 19.999999999999996 L 2.842170943040401e-14 19.999999999999996 L 2.842170943040401e-14 3.552713678800501e-15 L 70.00000000000001 -3.944304526105059e-31 L 72.51327412287185 7.993605777301126e-15 L 167.51327412287185 3.5527136788004994e-15 L 170.0265482457437 8.881784197001248e-16 L 240.0265482457437 1.598721155460225e-14 L 240.0265482457437 20.00000000000001 " stroke="#000080" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython029'</title>
+</g>
+<g id="Part__Part2DObjectPython030" transform="translate(2.400265,22.400265) scale(1,-1)">
+<path id="Part__Part2DObjectPython030_w0000"  d="M 71.25663706143592 -1.7440494025384107e-30 L 71.25663706143592 19.999999999999996 " stroke="#c00000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:3.0,2.0,0.2,2.0;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Part__Part2DObjectPython030_w0001"  d="M 168.76991118430777 3.5527136788004986e-15 L 168.76991118430777 20.0 " stroke="#c00000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:3.0,2.0,0.2,2.0;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython030'</title>
+</g>
+<g id="Part__Part2DObjectPython031" transform="translate(2.400265,22.400265) scale(1,-1)">
+<circle cx="225.0265482457437" cy="10.00000000000001" r="5.999999999999999" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="15.000000000000027" cy="10.000000000000002" r="5.999999999999999" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="82.51327412287185" cy="10.000000000000005" r="1.9999999999999998" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="157.51327412287185" cy="10.000000000000002" r="1.9999999999999998" stroke="#ff5733" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Part__Part2DObjectPython031'</title>
+</g>
+</svg>
