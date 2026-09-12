@@ -1,0 +1,12 @@
+../Core/Src/main.c:97:5:_write	1
+../Core/Src/main.c:117:6:SetMuxChannel	1
+../Core/Src/main.c:130:5:main	10
+../Core/Src/main.c:288:6:SystemClock_Config	3
+../Core/Src/main.c:335:13:MX_FDCAN1_Init	4
+../Core/Src/main.c:388:13:MX_FDCAN2_Init	4
+../Core/Src/main.c:440:13:MX_TIM1_Init	7
+../Core/Src/main.c:522:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:570:13:MX_GPIO_Init	1
+../Core/Src/main.c:642:13:FDCAN2_Filter_Config	3
+../Core/Src/main.c:677:6:HAL_FDCAN_RxFifo0Callback	5
+../Core/Src/main.c:713:6:Error_Handler	1

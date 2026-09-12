@@ -1,0 +1,6 @@
+../Core/Src/main.c:80:6:SetMuxChannel	16	static
+../Core/Src/main.c:92:5:main	16	static
+../Core/Src/main.c:174:6:SystemClock_Config	88	static
+../Core/Src/main.c:220:13:MX_TIM1_Init	120	static
+../Core/Src/main.c:302:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:357:6:Error_Handler	4	static,ignoring_inline_asm
